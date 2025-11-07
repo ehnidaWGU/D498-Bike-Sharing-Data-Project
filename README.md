@@ -3,9 +3,16 @@ A project for Udacity's R Programming class
 
 This project takes 3 .csv files shared by udacity on a bike sharing program across 3 cities. Using these 3 data sets, the student has to create 3 research questions to answer and visualize using R.
 
+Files: 
+  - Project 1.R: The R script built in RStudio
+  - README.md: ReadMe file covering the project
+  - washington.csv: .csv file covering bike data for Washington
+  - new_york_city.csv: .csv file covering bike data for New York City
+  - chicago.csv: .csv file covering bike data for Chicago
+
 Datasets:
 
-  - wash.csv: 
+  - washington.csv: 
     - Start Time (e.g., 2017-01-01 00:07:57)
     - End Time (e.g., 2017-01-01 00:20:53)
     - Trip Duration (in seconds - e.g., 776)
@@ -23,7 +30,7 @@ Datasets:
     - Gender (Male or Female)
     - Birth Year (e.g., 1999)
 
-  - chi.csv: 
+  - chicago.csv: 
     - Start Time (e.g., 2017-01-01 00:07:57)
     - End Time (e.g., 2017-01-01 00:20:53)
     - Trip Duration (in seconds - e.g., 776)
