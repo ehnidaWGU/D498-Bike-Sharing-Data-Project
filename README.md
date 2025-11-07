@@ -5,7 +5,7 @@ This project takes 3 .csv files shared by udacity on a bike sharing program acro
 
 Datasets:
 
-  wash.csv: 
+  - wash.csv: 
     - Start Time (e.g., 2017-01-01 00:07:57)
     - End Time (e.g., 2017-01-01 00:20:53)
     - Trip Duration (in seconds - e.g., 776)
@@ -13,7 +13,7 @@ Datasets:
     - End Station (e.g., Sedgwick St & North Ave)
     - User Type (Subscriber or Customer)
 
-  new_york_city.csv: 
+  - new_york_city.csv: 
     - Start Time (e.g., 2017-01-01 00:07:57)
     - End Time (e.g., 2017-01-01 00:20:53)
     - Trip Duration (in seconds - e.g., 776)
@@ -23,7 +23,7 @@ Datasets:
     - Gender (Male or Female)
     - Birth Year (e.g., 1999)
 
-  chi.csv: 
+  - chi.csv: 
     - Start Time (e.g., 2017-01-01 00:07:57)
     - End Time (e.g., 2017-01-01 00:20:53)
     - Trip Duration (in seconds - e.g., 776)
